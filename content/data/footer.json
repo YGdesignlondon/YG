@@ -31,7 +31,7 @@
             {
                 "type": "Link",
                 "label": "Digital product",
-                "altText": "Send",
+                "altText": "Digital product",
                 "url": "/digital products",
                 "showIcon": true,
                 "icon": "send",
