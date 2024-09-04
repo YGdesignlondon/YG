@@ -72,7 +72,7 @@
                 {
                     "type": "Link",
                     "label": "Ongoing Support & Maintenance",
-                    "altText": "",
+                    "altText": "Ongoing Support & Maintenance",
                     "url": "/Ongoing Support & Maintenance",
                     "showIcon": false,
                     "icon": "arrowRight",
