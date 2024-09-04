@@ -30,7 +30,7 @@
             },
             {
                 "type": "Link",
-                "label": "Send",
+                "label": "Digital product",
                 "altText": "Send",
                 "url": "/digital products",
                 "showIcon": true,
