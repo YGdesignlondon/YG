@@ -473,7 +473,7 @@ sections:
         - type: SelectFormControl
           name: company
           label: Company name
-          hideLabel: true
+          hideLabel: false
           defaultValue: Please choose...
           options:
             - ''
