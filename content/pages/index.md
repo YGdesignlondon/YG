@@ -54,7 +54,7 @@ sections:
     subtitle: What we offer
     items:
       - type: FeaturedItem
-        title: 500k
+        title: User Experience (UX) Design
         subtitle: Numbers Done
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
