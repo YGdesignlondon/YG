@@ -479,7 +479,7 @@ sections:
             - Design a new website or app
             - Branding or rebranding
             - B2B SaaS
-            - ''
+            - Development and Main
           isRequired: true
           width: full
       elementId: contact-form
