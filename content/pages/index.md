@@ -476,7 +476,7 @@ sections:
           hideLabel: false
           defaultValue: Design requirements
           options:
-            - ''
+            - phone
             - ''
           isRequired: true
           width: full
