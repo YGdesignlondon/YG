@@ -478,7 +478,7 @@ sections:
           options:
             - Design a new website or app
             - Branding or rebranding
-            - ''
+            - B2B SaaS
           isRequired: true
           width: full
       elementId: contact-form
