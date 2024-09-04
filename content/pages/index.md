@@ -476,7 +476,7 @@ sections:
           hideLabel: false
           defaultValue: Redesign a website or app
           options:
-            - phone
+            - Design a new website or app
             - ''
           isRequired: true
           width: full
