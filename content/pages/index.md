@@ -481,7 +481,7 @@ sections:
             - B2B SaaS
             - 'Development, ongoing Support and maintenance'
           isRequired: true
-          width: 1/2
+          width: full
       elementId: contact-form
       styles:
         self:
