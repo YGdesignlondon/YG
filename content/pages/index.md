@@ -228,7 +228,7 @@ sections:
     text: |
       Get a free consultation that brings your ideas closer to production.
     actions:
-      - label: Get started
+      - label: Get in touch
         url: /
         icon: arrowRight
         iconPosition: right
