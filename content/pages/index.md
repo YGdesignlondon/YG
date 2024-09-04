@@ -225,9 +225,8 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Contact us today
-    text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
+    text: |
+      Get a free consultation that brings your ideas closer to production.
     actions:
       - label: Get started
         url: /
