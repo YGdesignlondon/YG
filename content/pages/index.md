@@ -224,7 +224,7 @@ sections:
       text: Free Design Consultion
       color: text-dark
       type: TitleBlock
-    subtitle: Be in good company
+    subtitle: Contact us today
     text: >
       A service that provides advice and guidance to startups and small
       businesses.
