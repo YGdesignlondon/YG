@@ -165,7 +165,7 @@ sections:
         textAlign: center
   - subtitle: Brands we have worked with
     images:
-      - altText: LP investment
+      - altText: LP Investment
         type: ImageBlock
       - url: /images/wellster-logo.svg
         altText: Wellster logo
