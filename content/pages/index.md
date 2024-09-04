@@ -172,6 +172,7 @@ sections:
         type: ImageBlock
       - altText: Giftano
         type: ImageBlock
+        url: /images/img-placeholder.svg
       - url: /images/vise-logo.svg
         altText: Vise logo
         type: ImageBlock
