@@ -472,6 +472,14 @@ sections:
           isRequired: true
           width: full
           type: EmailFormControl
+        - type: SelectFormControl
+          name: company
+          label: Company size
+          hideLabel: false
+          defaultValue: Please choose...
+          options: []
+          isRequired: false
+          width: full
         - name: message
           label: Message
           hideLabel: true
