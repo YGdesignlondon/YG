@@ -1,9 +1,4 @@
 {
-    "logo": {
-        "url": "/images/logo-white.svg",
-        "altText": "Logo light",
-        "type": "ImageBlock"
-    },
     "text": "London based digital product design agency\n",
     "primaryLinks": {
         "title": "Services",
@@ -32,6 +27,28 @@
                 "iconPosition": "right",
                 "style": "secondary",
                 "type": "Link"
+            },
+            {
+                "type": "Link",
+                "label": "B2B and SaaS platforms",
+                "altText": "B2B and SaaS platforms",
+                "url": "/digital product",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "style": "secondary",
+                "elementId": ""
+            },
+            {
+                "type": "Link",
+                "label": "Brand creative",
+                "altText": "Brand creative",
+                "url": "/brand creative",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "style": "secondary",
+                "elementId": ""
             }
         ],
         "type": "FooterLinksGroup"
@@ -40,17 +57,9 @@
         "title": "Company",
         "links": [
             {
-                "label": "Careers",
+                "label": "Our team",
                 "altText": "careers page",
                 "url": "/careers",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
-            },
-            {
-                "label": "Blog",
-                "url": "/blog",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
@@ -100,5 +109,6 @@
     ],
     "copyrightText": "Powered by [Netlify Create](https://www.netlify.com/platform/create/)",
     "colors": "bg-dark-fg-light",
-    "type": "Footer"
+    "type": "Footer",
+    "title": "YG"
 }
