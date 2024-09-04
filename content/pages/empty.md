@@ -19,7 +19,7 @@ sections:
     showDate: true
     showAuthor: true
     actions: []
-    elementId: ''
+    elementId: 'https://legendary-melomakarona-67022e.netlify.app/work/'
     variant: three-col-grid
     colors: bg-light-fg-dark
     hoverEffect: thin-underline
