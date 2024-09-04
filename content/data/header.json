@@ -82,7 +82,7 @@
                 },
                 {
                     "type": "Link",
-                    "label": "See Tutorials",
+                    "label": "",
                     "altText": "",
                     "url": "/Custom Solutions",
                     "showIcon": false,
