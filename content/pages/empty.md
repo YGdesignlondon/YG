@@ -31,6 +31,7 @@ sections:
           - pb-16
           - pr-16
         justifyContent: center
+    subtitle: Our Work
 slug: empty
 isDraft: true
 seo:
