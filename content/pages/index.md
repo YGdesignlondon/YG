@@ -221,7 +221,7 @@ sections:
           - pr-7
     type: DividerSection
   - title:
-      text: Book a free design consulting
+      text: Free design consulting
       color: text-dark
       type: TitleBlock
     subtitle: Be in good company
