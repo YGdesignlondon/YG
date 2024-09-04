@@ -27,17 +27,6 @@
                 "iconPosition": "right",
                 "style": "secondary",
                 "type": "Link"
-            },
-            {
-                "type": "Link",
-                "label": "Digital product (B2B and SaaS platforms)",
-                "altText": "Digital product (B2B and SaaS platforms)",
-                "url": "/digital product ",
-                "showIcon": true,
-                "icon": "send",
-                "iconPosition": "right",
-                "style": "secondary",
-                "elementId": ""
             }
         ],
         "type": "FooterLinksGroup"
