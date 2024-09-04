@@ -165,20 +165,15 @@ sections:
         textAlign: center
   - subtitle: Brands we have worked with
     images:
-      - url: /images/empathy-logo.svg
-        altText: Empathy logo
+      - altText: LP Investment
         type: ImageBlock
       - url: /images/wellster-logo.svg
         altText: Wellster logo
         type: ImageBlock
+      - altText: Giftano
+        type: ImageBlock
       - url: /images/vise-logo.svg
         altText: Vise logo
-        type: ImageBlock
-      - url: /images/telus-logo.svg
-        altText: Telus logo
-        type: ImageBlock
-      - url: /images/contenful-logo.svg
-        altText: Contentful logo
         type: ImageBlock
       - url: /images/sanity-logo.svg
         altText: Sanity logo
@@ -477,12 +472,15 @@ sections:
           type: EmailFormControl
         - type: SelectFormControl
           name: company
-          label: Company size
+          label: Design requirements
           hideLabel: false
-          defaultValue: Please choose...
+          defaultValue: Redesign a website or app
           options:
-            - ''
-          isRequired: false
+            - Design a new website or app
+            - Branding or rebranding
+            - B2B SaaS
+            - 'Development, ongoing Support and maintenance'
+          isRequired: true
           width: full
       elementId: contact-form
       styles:
