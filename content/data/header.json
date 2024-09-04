@@ -61,7 +61,7 @@
                 {
                     "type": "Link",
                     "label": "Development Services",
-                    "altText": "Development services",
+                    "altText": "Development Services",
                     "url": "/development services",
                     "showIcon": false,
                     "icon": "arrowRight",
