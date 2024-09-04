@@ -27,6 +27,17 @@
                 "iconPosition": "right",
                 "style": "secondary",
                 "type": "Link"
+            },
+            {
+                "type": "Link",
+                "label": "Send",
+                "altText": "Send",
+                "url": "/digital products",
+                "showIcon": true,
+                "icon": "send",
+                "iconPosition": "right",
+                "style": "secondary",
+                "elementId": ""
             }
         ],
         "type": "FooterLinksGroup"
