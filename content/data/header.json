@@ -65,7 +65,7 @@
         {
             "label": "Company",
             "altText": "Company",
-            "url": "/careers",
+            "url": "/company",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
