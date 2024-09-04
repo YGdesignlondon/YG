@@ -84,7 +84,7 @@ sections:
             self:
               borderRadius: x-large
       - title: User Interface (UI) Design
-        subtitle: websites+ mobile apps/softwares
+        subtitle: websites/mobile apps/softwares
         text: >
           Create visually appealing and user-friendly interfaces that enhance
           the overall user experience. Continuously improve based on user
