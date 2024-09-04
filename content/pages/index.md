@@ -478,7 +478,7 @@ sections:
           options:
             - ''
             - ''
-          isRequired: false
+          isRequired: true
           width: full
       elementId: contact-form
       styles:
