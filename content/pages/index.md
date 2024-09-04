@@ -56,10 +56,11 @@ sections:
       - type: FeaturedItem
         title: User Experience (UX) Design
         subtitle: Numbers Done
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          Conduct comprehensive user research and usability testing to develop
+          effective design strategies, wireframing & prototyping, and
+          interaction design.
+
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
