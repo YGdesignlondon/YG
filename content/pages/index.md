@@ -454,7 +454,7 @@ sections:
       text: Make your ideas come true
       color: text-dark
       type: TitleBlock
-    subtitle: Section with a form subtitle
+    subtitle: Free consultation with our team
     text: ''
     media:
       fields:
