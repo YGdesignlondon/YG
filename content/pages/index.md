@@ -474,7 +474,7 @@ sections:
           name: company
           label: Company name
           hideLabel: false
-          defaultValue: Please choose...
+          defaultValue: Design requirements
           options:
             - ''
           isRequired: false
