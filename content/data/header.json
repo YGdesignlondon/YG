@@ -60,7 +60,7 @@
                 },
                 {
                     "type": "Link",
-                    "label": "See Tutorials",
+                    "label": "Development services",
                     "altText": "",
                     "url": "/development services",
                     "showIcon": false,
