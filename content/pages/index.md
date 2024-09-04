@@ -175,6 +175,7 @@ sections:
         type: ImageBlock
       - altText: Giftano
         type: ImageBlock
+        url: /images/Screenshot 2024-09-04 at 16.50.34.png
       - url: /images/sanity-logo.svg
         altText: Sanity logo
         type: ImageBlock
