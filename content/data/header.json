@@ -28,7 +28,7 @@
                 {
                     "type": "Link",
                     "label": "Our Services",
-                    "altText": "",
+                    "altText": "Our Services",
                     "url": "/",
                     "showIcon": false,
                     "icon": "arrowRight",
