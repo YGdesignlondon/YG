@@ -31,7 +31,7 @@ sections:
           - pb-16
           - pr-16
         justifyContent: center
-    subtitle: Our Work
+    subtitle: YG Case Studies
 slug: empty
 isDraft: true
 seo:
