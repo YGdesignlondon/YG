@@ -23,7 +23,7 @@
         },
         {
             "type": "SubNav",
-            "label": "Dropdown",
+            "label": "Our Services",
             "altText": "Dropdown",
             "links": [
                 {
