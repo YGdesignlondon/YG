@@ -131,7 +131,7 @@ sections:
             flexDirection: row
         type: FeaturedItem
     actions:
-      - label: Get in touch
+      - label: Learn more
         altText: ''
         url: /
         showIcon: false
