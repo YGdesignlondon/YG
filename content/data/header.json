@@ -88,7 +88,8 @@
     "styles": {
         "self": {
             "padding": [
-                "pt-1"
+                "pt-1",
+                "pr-1"
             ],
             "margin": [
                 "mt-1"
