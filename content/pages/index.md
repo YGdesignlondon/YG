@@ -474,7 +474,7 @@ sections:
           name: company
           label: Design requirements
           hideLabel: false
-          defaultValue: Design requirements
+          defaultValue: Redesign a website or app
           options:
             - phone
             - ''
