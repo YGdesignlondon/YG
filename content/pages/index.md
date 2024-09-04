@@ -480,12 +480,6 @@ sections:
           options: []
           isRequired: false
           width: full
-        - name: message
-          label: Message
-          hideLabel: true
-          placeholder: Your message
-          width: full
-          type: TextareaFormControl
       elementId: contact-form
       styles:
         self:
