@@ -27,8 +27,8 @@
             "links": [
                 {
                     "type": "Link",
-                    "label": "Our Services",
-                    "altText": "Our Services",
+                    "label": "UX/UI design",
+                    "altText": "UX/UI design",
                     "url": "/",
                     "showIcon": false,
                     "icon": "arrowRight",
@@ -38,8 +38,8 @@
                 },
                 {
                     "type": "Link",
-                    "label": "Dropdown item",
-                    "altText": "",
+                    "label": "Visual Identity design",
+                    "altText": "Visual Identity design",
                     "url": "/",
                     "showIcon": false,
                     "icon": "arrowRight",
@@ -49,9 +49,42 @@
                 },
                 {
                     "type": "Link",
-                    "label": "Dropdown item",
-                    "altText": "",
+                    "label": "B2B and SaaS platforms design",
+                    "altText": "B2B and SaaS platforms design",
                     "url": "/",
+                    "showIcon": false,
+                    "icon": "arrowRight",
+                    "iconPosition": "right",
+                    "style": "secondary",
+                    "elementId": ""
+                },
+                {
+                    "type": "Link",
+                    "label": "Development Services",
+                    "altText": "Development Services",
+                    "url": "/development services",
+                    "showIcon": false,
+                    "icon": "arrowRight",
+                    "iconPosition": "right",
+                    "style": "secondary",
+                    "elementId": ""
+                },
+                {
+                    "type": "Link",
+                    "label": "Ongoing Support & Maintenance",
+                    "altText": "Ongoing Support & Maintenance",
+                    "url": "/Ongoing Support & Maintenance",
+                    "showIcon": false,
+                    "icon": "arrowRight",
+                    "iconPosition": "right",
+                    "style": "secondary",
+                    "elementId": ""
+                },
+                {
+                    "type": "Link",
+                    "label": "Custom Solutions",
+                    "altText": "Custom Solutions",
+                    "url": "/Custom Solutions",
                     "showIcon": false,
                     "icon": "arrowRight",
                     "iconPosition": "right",
