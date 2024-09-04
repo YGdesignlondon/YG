@@ -83,7 +83,7 @@
                 {
                     "type": "Link",
                     "label": "Custom Solutions",
-                    "altText": "",
+                    "altText": "Custom Solutions",
                     "url": "/Custom Solutions",
                     "showIcon": false,
                     "icon": "arrowRight",
