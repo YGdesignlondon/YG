@@ -85,10 +85,10 @@ sections:
               borderRadius: x-large
       - title: User Interface (UI) Design
         subtitle: The Job Stuff
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          Create visually appealing and user-friendly interfaces that enhance
+          the overall user experience.
+
         image:
           url: /images/icon2.svg
           altText: Featured icon two
