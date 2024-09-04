@@ -84,7 +84,7 @@ sections:
             self:
               borderRadius: x-large
       - title: User Interface (UI) Design
-        subtitle: The Job Stuff
+        subtitle: websites+ mobile apps
         text: >+
           Create visually appealing and user-friendly interfaces that enhance
           the overall user experience.
