@@ -109,7 +109,7 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: Custom Solutions
-        subtitle: Faster
+        subtitle: websites/mobile apps/softwares
         text: >+
           Offering customised services based on specific client needs, combining
           elements from different service categories. Handling the entire design
