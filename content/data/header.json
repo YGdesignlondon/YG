@@ -92,7 +92,7 @@
                     "elementId": ""
                 }
             ],
-            "labelStyle": "secondary"
+            "labelStyle": "primary"
         },
         {
             "label": "Company",
