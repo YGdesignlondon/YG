@@ -219,7 +219,7 @@ sections:
           - pr-7
     type: DividerSection
   - title:
-      text: Free design consultions
+      text: Free design consultion
       color: text-dark
       type: TitleBlock
     subtitle: Contact us today
