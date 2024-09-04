@@ -42,7 +42,7 @@
             {
                 "type": "Link",
                 "label": "Brand Creative",
-                "altText": "",
+                "altText": "Brand Creative",
                 "url": "/brand creative",
                 "showIcon": false,
                 "icon": "arrowRight",
