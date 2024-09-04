@@ -477,6 +477,7 @@ sections:
           defaultValue: Design requirements
           options:
             - ''
+            - ''
           isRequired: false
           width: full
       elementId: contact-form
