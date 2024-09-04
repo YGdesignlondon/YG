@@ -32,7 +32,7 @@ sections:
           - pr-16
         justifyContent: center
     subtitle: YG Case Studies
-slug: empty
+slug: 'https://legendary-melomakarona-67022e.netlify.app/work/'
 isDraft: true
 seo:
   type: Seo
