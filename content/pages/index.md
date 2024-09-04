@@ -478,6 +478,7 @@ sections:
           options:
             - Design a new website or app
             - Branding or rebranding
+            - ''
           isRequired: true
           width: full
       elementId: contact-form
