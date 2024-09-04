@@ -473,7 +473,7 @@ sections:
         - type: SelectFormControl
           name: company
           label: Design requirements
-          hideLabel: false
+          hideLabel: true
           defaultValue: Redesign a website or app
           options:
             - Design a new website or app
