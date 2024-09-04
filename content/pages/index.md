@@ -472,7 +472,7 @@ sections:
           type: EmailFormControl
         - type: SelectFormControl
           name: company
-          label: Company name
+          label: Design requirements
           hideLabel: false
           defaultValue: Design requirements
           options:
