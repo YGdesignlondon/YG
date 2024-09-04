@@ -85,10 +85,10 @@ sections:
               borderRadius: x-large
       - title: User Interface (UI) Design
         subtitle: websites+ mobile apps/softwares
-        text: >+
+        text: >
           Create visually appealing and user-friendly interfaces that enhance
-          the overall user experience.
-
+          the overall user experience. Continuously improve based on user
+          feedback and analytics to meet user needs.
         image:
           url: /images/icon2.svg
           altText: Featured icon two
