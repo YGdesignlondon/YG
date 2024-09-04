@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Design your digital production now
+      text: Design your digital production now with us
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
