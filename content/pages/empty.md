@@ -5,7 +5,7 @@ sections:
   - type: FeaturedPostsSection
     title:
       type: TitleBlock
-      text: Work
+      text: OurWork
       color: text-dark
       styles:
         self:
