@@ -168,7 +168,7 @@ sections:
     images:
       - altText: LP Investment
         type: ImageBlock
-      - url: /images/wellster-logo.svg
+      - url: /images/Screenshot 2024-09-04 at 16.50.34.png
         altText: Wellster logo
         type: ImageBlock
       - altText: Giftano
