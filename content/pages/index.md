@@ -96,6 +96,9 @@ sections:
           elementId: ''
           type: ImageBlock
           url: /images/lala-azizli-Uxw-MF_uDGg-unsplash.jpg
+          styles:
+            self:
+              borderRadius: x-small
         actions: []
         colors: bg-neutralAlt-fg-dark
         styles:
