@@ -1,5 +1,5 @@
 ---
-title: Our team
+title: Company
 slug: careers
 sections:
   - title:
