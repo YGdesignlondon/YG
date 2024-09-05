@@ -249,6 +249,7 @@ sections:
           borderWidth: 0
           margin:
             - mt-5
+            - ml-5
     badge:
       label: This is YG
       color: text-primary
