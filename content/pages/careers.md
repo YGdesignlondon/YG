@@ -13,11 +13,9 @@ sections:
     text: >
       YG Design is a London-based UX/UI design agency offering high-quality,
       user-centric design solutions tailored to businesses worldwide. We
-      leverage a team of experienced designers to provide innovative and
-      cost-effective digital design services for startups, SMEs, and large
-      enterprises. Our unique business model combines global creative talent
-      with competitive pricing, making us a preferred partner for exceptional
-      digital experiences and business growth.
+      leverage a team of experienced designers and developers to provide
+      innovative and cost-effective digital design services for startups, SMEs,
+      and large enterprises. 
 
 
       We aim to become a leading global UX/UI design agency known for
