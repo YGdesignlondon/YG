@@ -267,7 +267,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Generic Section With A Form
+      text: Make your design ideas come to production
       color: text-dark
     subtitle: Section with a form subtitle
     text: |-
