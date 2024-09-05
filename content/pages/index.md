@@ -126,6 +126,9 @@ sections:
           altText: Featured icon three
           elementId: ''
           type: ImageBlock
+          styles:
+            self:
+              borderRadius: small
         actions: []
         colors: bg-neutralAlt-fg-dark
         styles:
