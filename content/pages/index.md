@@ -84,7 +84,7 @@ sections:
           url: /images/5731725541505_.pic.jpg
           styles:
             self:
-              borderRadius: none
+              borderRadius: x-small
       - title: User Interface (UI) Design
         subtitle: Websites/mobile apps/softwares
         text: >
