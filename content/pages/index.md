@@ -81,7 +81,7 @@ sections:
           type: ImageBlock
           altText: Lightning bolt symbol on red background
           elementId: ''
-          url: /images/jason-goodman-MGFSGQr0c0Y-unsplash.jpg
+          url: /images/jason-goodman-Kewm3qZfzOw-unsplash.jpg
           styles:
             self:
               borderRadius: x-large
