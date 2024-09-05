@@ -277,7 +277,7 @@ sections:
     colors: bg-light-fg-dark
     type: GenericSection
   - type: GenericSection
-    subtitle: Section with a form subtitle
+    subtitle: ''
     text: ''
     actions: []
     media:
