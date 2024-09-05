@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: "Book a free\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_consultation"
+      text: "Book a free\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ consultation"
       color: text-dark
     subtitle: Book a free consultation with the team
     text: |
