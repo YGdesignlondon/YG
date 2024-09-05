@@ -173,7 +173,7 @@ sections:
         type: ImageBlock
       - altText: Giftano
         type: ImageBlock
-      - url: /images/vise-logo.svg
+      - url: /images/Frame 2116674813.jpg
         altText: Vise logo
         type: ImageBlock
       - url: /images/sanity-logo.svg
