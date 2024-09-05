@@ -267,7 +267,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Make your ideas come to production
+      text: Make your design ideas come true
       color: text-dark
     subtitle: Book a free consultation with us today
     text: |
