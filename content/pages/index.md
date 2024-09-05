@@ -95,6 +95,7 @@ sections:
           altText: Featured icon two
           elementId: ''
           type: ImageBlock
+          url: /images/budka-damdinsuren-xPjsMamUBK4-unsplash.jpg
         actions: []
         colors: bg-neutralAlt-fg-dark
         styles:
