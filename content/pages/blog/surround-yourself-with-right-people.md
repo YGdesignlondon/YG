@@ -2,7 +2,7 @@
 title: Bundls APP design
 slug: surround-yourself-with-right-people
 date: '2023-03-26'
-excerpt: Bu
+excerpt: Bundls App is .....
 featuredImage:
   altText: Thumbnail
   type: ImageBlock
