@@ -119,7 +119,7 @@ sections:
           branding, and development.
 
         image:
-          url: /images/icon3.svg
+          url: /images/headway-5QgIuuBxKwM-unsplash.jpg
           altText: Featured icon three
           elementId: ''
           type: ImageBlock
