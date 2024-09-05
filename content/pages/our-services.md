@@ -96,12 +96,10 @@ sections:
         title: Custom Solutions
         tagline: ''
         subtitle: ''
-        text: >+
-          Offering customised services based on specific client needs, combining
-          elements from different service categories. Handling the entire design
-          process from concept to delivery, covering all aspects of UX/UI,
-          branding, and development.
-
+        text: >
+          Offering customised services tailored to specific client needs,
+          covering all aspects of design from concept to delivery, including
+          UX/UI, branding, and development.
         image:
           type: ImageBlock
           url: /images/headway-5QgIuuBxKwM-unsplash.jpg
