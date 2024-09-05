@@ -46,7 +46,7 @@ sections:
           Follow the tutorial to build your first awesome Netlify Create site.
         image:
           type: ImageBlock
-          url: /images/Frame 2116674814.jpg
+          url: /images/Frame 2116674816.jpg
           altText: Background alt text
           styles:
             self:
