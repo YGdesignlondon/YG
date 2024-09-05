@@ -250,6 +250,7 @@ sections:
           margin:
             - mt-5
             - ml-5
+            - mr-5
     badge:
       label: This is YG
       color: text-primary
