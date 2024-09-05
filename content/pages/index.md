@@ -269,9 +269,7 @@ sections:
       type: TitleBlock
       text: Make your ideas come to production
       color: text-dark
-    subtitle: >-
-      Book a free consultation with us todayAddress: 590 Chiswick High Road,
-      London, UKPhone: +44 7774348345Email: gaoyuyao88@gmail.com
+    subtitle: Book a free consultation with us today
     text: ''
     actions: []
     media:
