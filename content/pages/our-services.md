@@ -45,11 +45,9 @@ sections:
         title: B2B and SaaS Platforms Design
         tagline: ''
         subtitle: ''
-        text: >+
+        text: >
           Design end-to-end digital products, including native apps, software
-          interfaces and online tools. Continuously improve based on user
-          feedback and analytics to meet user needs.
-
+          interfaces and online tools. 
         image:
           type: ImageBlock
           url: /images/Frame 2116674816.jpg
