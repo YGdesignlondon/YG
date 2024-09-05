@@ -21,17 +21,6 @@
             "altText": "Our Work"
         },
         {
-            "type": "Link",
-            "label": "See Tutorials",
-            "altText": "",
-            "url": "/our services",
-            "showIcon": false,
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "elementId": ""
-        },
-        {
             "label": "Company",
             "altText": "Company",
             "url": "/company",
