@@ -248,7 +248,7 @@ sections:
         self:
           borderWidth: 0
           margin:
-            - mt-1
+            - mt-5
     badge:
       label: This is YG
       color: text-primary
