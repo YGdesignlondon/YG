@@ -249,7 +249,7 @@ sections:
           borderWidth: 0
           margin:
             - mt-5
-            - ml-5
+            - ml-0
             - mr-5
             - mb-5
     badge:
