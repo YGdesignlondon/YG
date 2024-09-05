@@ -15,7 +15,7 @@ sections:
       local design agencies.
     items:
       - type: FeaturedItem
-        title: Feature Item One
+        title: UX/UI Design
         tagline: ''
         subtitle: This is the item subtitle
         text: |
