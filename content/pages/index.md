@@ -289,6 +289,13 @@ sections:
           placeholder: Your email
           isRequired: true
           width: full
+        - type: TextFormControl
+          name: Company name
+          label: Name
+          hideLabel: true
+          placeholder: Your name
+          isRequired: true
+          width: full
         - type: TextareaFormControl
           name: message
           label: Message
