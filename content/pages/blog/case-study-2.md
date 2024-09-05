@@ -1,5 +1,5 @@
 ---
-title: Case study 2
+title: Bundls APP design
 slug: case-study-2
 date: '2022-02-16'
 excerpt: >-
@@ -8,8 +8,8 @@ excerpt: >-
   Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem
   pellentesque fermentum. Sed in facilisis dui.
 featuredImage:
-  url: /images/img-placeholder.svg
-  altText: Case study 2
+  url: /images/Frame 2116674815.jpg
+  altText: Bundls APP design
   styles:
     self:
       borderRadius: x-large
