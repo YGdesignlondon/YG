@@ -1,5 +1,5 @@
 ---
-title: Bu n d l s
+title: Bundls APP
 slug: case-study-2
 date: '2022-02-16'
 excerpt: >-
