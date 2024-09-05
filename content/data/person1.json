@@ -2,7 +2,7 @@
     "name": "Yuyao Gao",
     "role": "Founder & Director",
     "image": {
-        "url": "/images/avatar1.svg",
+        "url": "/images/avataaars (8).png",
         "altText": "Rhonda Piper",
         "styles": {
             "self": {
@@ -14,7 +14,7 @@
         },
         "type": "ImageBlock"
     },
-    "colors": "bg-light-fg-dark",
+    "colors": "bg-dark-fg-light",
     "styles": {
         "self": {
             "padding": [

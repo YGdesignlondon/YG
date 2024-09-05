@@ -3,7 +3,7 @@
     "name": "Andrea Viflor",
     "role": "Senior UX/UI Designer",
     "image": {
-        "url": "/images/avatar3.svg",
+        "url": "/images/avataaars (5).png",
         "altText": "Asher Schmitt",
         "styles": {
             "self": {
@@ -15,7 +15,7 @@
         },
         "type": "ImageBlock"
     },
-    "colors": "bg-light-fg-dark",
+    "colors": "bg-dark-fg-light",
     "elementId": null,
     "styles": {
         "self": {
