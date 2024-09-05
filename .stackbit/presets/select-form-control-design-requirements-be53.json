@@ -1,0 +1,32 @@
+{
+    "model": "SelectFormControl",
+    "srcType": "git",
+    "srcProjectId": "9a0364b9",
+    "presets": [
+        {
+            "label": "design requirements",
+            "locale": null,
+            "metadata": {
+                "categories": [
+                    "contact"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "name": "company",
+                "label": "Design requirements",
+                "hideLabel": false,
+                "defaultValue": "Redesign a website or app",
+                "options": [
+                    "Design a new website or app",
+                    "Branding or rebranding",
+                    "B2B SaaS",
+                    "Development, ongoing Support and maintenance"
+                ],
+                "isRequired": true,
+                "width": "full"
+            },
+            "thumbnail": "images/select-form-control-design-requirements-be53.png"
+        }
+    ]
+}
