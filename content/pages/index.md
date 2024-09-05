@@ -168,7 +168,7 @@ sections:
     images:
       - altText: LP Investment
         type: ImageBlock
-      - url: /images/contenful-logo.svg
+      - url: /images/Frame 2116674812.jpg
         altText: Wellster logo
         type: ImageBlock
       - altText: Giftano
