@@ -3,7 +3,7 @@ title: Company
 slug: careers
 sections:
   - title:
-      text: A team that works closely together
+      text: A forward-thinking design agency
       color: text-light
       styles:
         self:
