@@ -32,18 +32,18 @@
             "elementId": ""
         },
         {
-            "label": "Contact",
-            "altText": "Contact",
-            "url": "/contact",
+            "label": "Company",
+            "altText": "Company",
+            "url": "/company",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
             "type": "Link"
         },
         {
-            "label": "Company",
-            "altText": "Company",
-            "url": "/company",
+            "label": "Contact",
+            "altText": "Contact",
+            "url": "/contact",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
