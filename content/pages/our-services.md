@@ -97,9 +97,9 @@ sections:
         tagline: ''
         subtitle: ''
         text: >
-          Offering customised services tailored to specific client needs,
-          covering all aspects of design from concept to delivery, including
-          UX/UI, branding, and development.
+          Offer customised services tailored to specific client needs, covering
+          all aspects of design from concept to delivery, including UX/UI,
+          branding, and development.
         image:
           type: ImageBlock
           url: /images/headway-5QgIuuBxKwM-unsplash.jpg
