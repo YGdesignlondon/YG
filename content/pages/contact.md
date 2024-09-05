@@ -7,7 +7,7 @@ sections:
       type: TitleBlock
       text: Generic Section With A Form
       color: text-dark
-    subtitle: Section with a form subtitle
+    subtitle: Book a free consultation with the team
     text: |
       Address: 590 Chiswick High Road, London, UK
 
