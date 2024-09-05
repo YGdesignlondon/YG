@@ -45,7 +45,7 @@ sections:
       type: BackgroundImage
       altText: altText of the image
       backgroundSize: auto
-      backgroundPosition: ''
+      backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
       url: /images/nastuh-abootalebi-eHD8Y1Znfpk-unsplash.jpg
