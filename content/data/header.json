@@ -21,15 +21,6 @@
             "altText": "Our Work"
         },
         {
-            "label": "Company",
-            "altText": "Company",
-            "url": "/company",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        },
-        {
             "type": "Link",
             "label": "See Tutorials",
             "altText": "",
@@ -39,6 +30,15 @@
             "iconPosition": "right",
             "style": "secondary",
             "elementId": ""
+        },
+        {
+            "label": "Company",
+            "altText": "Company",
+            "url": "/company",
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary",
+            "type": "Link"
         },
         {
             "label": "Contact",
