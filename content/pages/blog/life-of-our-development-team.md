@@ -6,7 +6,7 @@ excerpt: >-
   Increased corporate sales and brand awareness at Giftano not only in Singapore
   but also worldwide.
 featuredImage:
-  url: /images/abstract-feature3.svg
+  url: /images/Frame 2116674814.jpg
   altText: Thumbnail
   type: ImageBlock
   styles:
