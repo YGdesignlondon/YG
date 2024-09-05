@@ -297,7 +297,7 @@ sections:
           isRequired: true
           width: full
         - type: EmailFormControl
-          name: email
+          name: Phone
           label: Email
           hideLabel: true
           placeholder: Your email
