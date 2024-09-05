@@ -246,7 +246,7 @@ sections:
       type: ImageBlock
       styles:
         self:
-          borderWidth: 4
+          borderWidth: 0
     badge:
       label: This is YG
       color: text-primary
