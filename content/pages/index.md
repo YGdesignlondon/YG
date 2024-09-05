@@ -264,6 +264,18 @@ sections:
           - pb-7
           - pr-7
     type: DividerSection
+  - title:
+      text: Make your ideas come true
+      color: text-dark
+      type: TitleBlock
+    subtitle: Book a free consultation with our team
+    text: ''
+    badge:
+      label: Contact Us
+      color: text-primary
+      type: Badge
+    colors: bg-light-fg-dark
+    type: GenericSection
   - type: GenericSection
     subtitle: ''
     text: ''
@@ -310,18 +322,6 @@ sections:
           borderWidth: 1
           borderRadius: large
     colors: bg-light-fg-dark
-  - title:
-      text: Make your ideas come true
-      color: text-dark
-      type: TitleBlock
-    subtitle: Book a free consultation with our team
-    text: ''
-    badge:
-      label: Contact Us
-      color: text-primary
-      type: Badge
-    colors: bg-light-fg-dark
-    type: GenericSection
 seo:
   metaTitle: Home - Demo site
   metaDescription: This demo site is built with Netlify Create.
