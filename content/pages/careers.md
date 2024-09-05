@@ -22,7 +22,7 @@ sections:
       excellence, creativity, and innovation, fostering a collaborative
       environment where talent thrives and clients succeed.
     actions:
-      - label: See open positions
+      - label: What we do
         url: /
         icon: arrowRight
         iconPosition: right
