@@ -303,6 +303,18 @@ sections:
           placeholder: Phone
           isRequired: true
           width: full
+        - type: SelectFormControl
+          name: Requirement
+          label: Design requirements
+          hideLabel: false
+          defaultValue: Redesign a website or app
+          options:
+            - Design a new website or app
+            - Branding or rebranding
+            - B2B SaaS
+            - 'Development, ongoing Support and maintenance'
+          isRequired: true
+          width: full
         - type: TextareaFormControl
           name: message
           label: Message
