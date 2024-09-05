@@ -15,12 +15,9 @@ sections:
       user-centric design solutions tailored to businesses worldwide. We
       leverage a team of experienced designers and developers to provide
       innovative and cost-effective digital design services for startups, SMEs,
-      and large enterprises. 
-
-
-      We aim to become a leading global UX/UI design agency known for
-      excellence, creativity, and innovation, fostering a collaborative
-      environment where talent thrives and clients succeed.
+      and large enterprises. We aim to become a leading global UX/UI design
+      agency known for excellence, creativity, and innovation, fostering a
+      collaborative environment where talent thrives and clients succeed.
     actions:
       - label: What we do
         url: /
