@@ -31,7 +31,7 @@ sections:
           - pb-16
           - pr-16
         justifyContent: center
-slug: empty
+slug: /our work
 isDraft: false
 seo:
   type: Seo
