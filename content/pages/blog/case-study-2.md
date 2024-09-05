@@ -9,7 +9,7 @@ excerpt: >-
   pellentesque fermentum. Sed in facilisis dui.
 featuredImage:
   url: /images/Frame 2116674815.jpg
-  altText: Bundls APP
+  altText: Bundls APP design
   styles:
     self:
       borderRadius: x-large
