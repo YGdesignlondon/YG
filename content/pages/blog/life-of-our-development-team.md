@@ -3,9 +3,8 @@ title: An easier way to reward your employees
 slug: life-of-our-development-team
 date: '2022-09-05'
 excerpt: >-
-  Vel repellat dolores ut unde voluptatum ut optio voluptates est aliquid. Ut
-  earum corporis id Quis esse est galisum officiis accusantium enim et
-  asperiores dolore.
+  Increased corporate sales at Giftano not only in Singapore but in other
+  countries in South East Asia.
 featuredImage:
   url: /images/abstract-feature3.svg
   altText: Thumbnail
