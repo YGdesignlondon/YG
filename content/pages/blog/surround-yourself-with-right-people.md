@@ -23,10 +23,12 @@ styles:
     flexDirection: col
 isFeatured: false
 ---
-\<div style="text-align: center">### Bundls APP designThe product is tailored for specific product users in certain open areas in the United States. These users can exchange designated platform digital currency through mobile banking/ETH, and then use the digital currency for consumption/transfer/storage on the platform. It integrates basic functions of a mall and a digital currency wallet.\</div>\</div>
+### Bundls APP design
+
+The product is tailored for specific product users in certain open areas in the United States. These users can exchange designated platform digital currency through mobile banking/ETH, and then use the digital currency for consumption/transfer/storage on the platform. It integrates basic functions of a mall and a digital currency wallet.\</div>\</div>
 
 ## ![](/images/WX20240902-220534@2x.png)
 
-\<div style="text-align: center">### Design process![](/images/bundls-1.png)\</div>\</div>
+### Design process![](/images/bundls-1.png)\</div>\</div>
 
 ![](/images/bundls-2.png)![](/images/bundls-3.png)![](/images/bundls-5.png)![](/images/bundls-6.png)![](/images/bundls-9.png)![](/images/bundls-10.png)![](/images/bundls-12.png)![](/images/bundls-13.png)
