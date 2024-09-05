@@ -270,55 +270,6 @@ sections:
       type: TitleBlock
     subtitle: Book a free consultation with our team
     text: ''
-    media:
-      fields:
-        - name: name
-          label: Name
-          hideLabel: true
-          placeholder: Your name
-          isRequired: true
-          width: full
-          type: TextFormControl
-        - name: email
-          label: Email
-          hideLabel: true
-          placeholder: Your email
-          isRequired: true
-          width: full
-          type: EmailFormControl
-        - type: SelectFormControl
-          name: company
-          label: Design requirements
-          hideLabel: false
-          defaultValue: Redesign a website or app
-          options:
-            - Design a new website or app
-            - Branding or rebranding
-            - B2B SaaS
-            - 'Development, ongoing Support and maintenance'
-          isRequired: true
-          width: full
-      elementId: contact-form
-      styles:
-        self:
-          padding:
-            - pt-6
-            - pb-6
-            - pl-6
-            - pr-6
-          borderColor: border-dark
-          borderStyle: solid
-          borderWidth: 1
-          borderRadius: large
-      type: FormBlock
-      submitButton:
-        type: SubmitButtonFormControl
-        label: Submit
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: null
     badge:
       label: Contact Us
       color: text-primary
