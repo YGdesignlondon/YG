@@ -244,6 +244,9 @@ sections:
       url: /images/ux-store-ukeUH3KbMWU-unsplash.jpg
       altText: Dope design preview
       type: ImageBlock
+      styles:
+        self:
+          borderWidth: 4
     badge:
       label: This is YG
       color: text-primary
