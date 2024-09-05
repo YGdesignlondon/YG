@@ -300,7 +300,7 @@ sections:
           name: Phone
           label: Phone
           hideLabel: true
-          placeholder: Your email
+          placeholder: Phone
           isRequired: true
           width: full
         - type: TextareaFormControl
