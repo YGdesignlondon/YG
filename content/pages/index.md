@@ -270,7 +270,12 @@ sections:
       text: Make your ideas come to production
       color: text-dark
     subtitle: Book a free consultation with us today
-    text: ''
+    text: |
+      Address: 590 Chiswick High Road, London, UK
+
+      Phone: +44 7774348345
+
+      Email: <gaoyuyao88@gmail.com>
     actions: []
     media:
       type: FormBlock
