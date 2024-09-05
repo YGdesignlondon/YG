@@ -17,7 +17,7 @@ sections:
       - type: FeaturedItem
         title: UX/UI Design
         tagline: ''
-        subtitle: This is the item subtitle
+        subtitle: ''
         text: >+
           Conduct comprehensive user research and usability testing to develop
           effective design strategies, wireframing & prototyping, and
