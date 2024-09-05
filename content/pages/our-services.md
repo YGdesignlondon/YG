@@ -12,7 +12,7 @@ sections:
           textAlign: center
     subtitle: >-
       We offer exceptional design quality at a fraction of the cost compared to
-      local competitors.
+      local design agencies.
     items:
       - type: FeaturedItem
         title: Feature Item One
