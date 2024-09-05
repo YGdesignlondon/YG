@@ -44,7 +44,7 @@ sections:
       - type: FeaturedItem
         title: B2B and SaaS Platforms Design
         tagline: ''
-        subtitle: This is the item subtitle
+        subtitle: ''
         text: |
           Follow the tutorial to build your first awesome Netlify Create site.
         image:
