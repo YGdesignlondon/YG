@@ -92,7 +92,7 @@ sections:
           the overall user experience. Continuously improve based on user
           feedback and analytics to meet user needs.
         image:
-          url: /images/icon2.svg
+          url: /images/magnus-andersson-KAzgxInZXMo-unsplash.jpg
           altText: Featured icon two
           elementId: ''
           type: ImageBlock
