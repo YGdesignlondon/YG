@@ -40,7 +40,7 @@ sections:
           isRequired: true
           width: full
         - type: EmailFormControl
-          name: email
+          name: Phone
           label: Phone
           hideLabel: true
           placeholder: Phone
