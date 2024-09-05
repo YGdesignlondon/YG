@@ -81,10 +81,10 @@ sections:
           type: ImageBlock
           altText: Lightning bolt symbol on red background
           elementId: ''
-          url: /images/jason-goodman-Kewm3qZfzOw-unsplash.jpg
+          url: /images/5731725541505_.pic.jpg
           styles:
             self:
-              borderRadius: x-large
+              borderRadius: x-small
       - title: User Interface (UI) Design
         subtitle: Websites/mobile apps/softwares
         text: >
@@ -96,6 +96,9 @@ sections:
           elementId: ''
           type: ImageBlock
           url: /images/lala-azizli-Uxw-MF_uDGg-unsplash.jpg
+          styles:
+            self:
+              borderRadius: x-small
         actions: []
         colors: bg-neutralAlt-fg-dark
         styles:
@@ -123,6 +126,9 @@ sections:
           altText: Featured icon three
           elementId: ''
           type: ImageBlock
+          styles:
+            self:
+              borderRadius: small
         actions: []
         colors: bg-neutralAlt-fg-dark
         styles:
@@ -258,30 +264,52 @@ sections:
           - pb-7
           - pr-7
     type: DividerSection
-  - title:
-      text: Make your ideas come true
-      color: text-dark
+  - type: GenericSection
+    title:
       type: TitleBlock
-    subtitle: Book a free consultation with our team
-    text: ''
+      text: Make your design ideas come true
+      color: text-dark
+    subtitle: Book a free consultation with us today
+    text: |
+      Address: 590 Chiswick High Road, London, UK
+
+      Phone: +44 7774348345
+
+      Email: <gaoyuyao88@gmail.com>
+    actions: []
     media:
+      type: FormBlock
       fields:
-        - name: name
+        - type: TextFormControl
+          name: name
           label: Name
           hideLabel: true
           placeholder: Your name
           isRequired: true
           width: full
-          type: TextFormControl
-        - name: email
+        - type: EmailFormControl
+          name: email
           label: Email
           hideLabel: true
           placeholder: Your email
           isRequired: true
           width: full
-          type: EmailFormControl
+        - type: TextFormControl
+          name: Company name
+          label: Company name
+          hideLabel: true
+          placeholder: Company name
+          isRequired: true
+          width: full
+        - type: EmailFormControl
+          name: Phone
+          label: Phone
+          hideLabel: true
+          placeholder: Phone
+          isRequired: true
+          width: full
         - type: SelectFormControl
-          name: company
+          name: Requirement
           label: Design requirements
           hideLabel: false
           defaultValue: Redesign a website or app
@@ -292,6 +320,18 @@ sections:
             - 'Development, ongoing Support and maintenance'
           isRequired: true
           width: full
+        - type: TextareaFormControl
+          name: message
+          label: Message
+          hideLabel: true
+          placeholder: Your message
+          width: full
+      submitButton:
+        type: SubmitButtonFormControl
+        label: Submit
+        icon: arrowRight
+        iconPosition: right
+        style: primary
       elementId: contact-form
       styles:
         self:
@@ -304,21 +344,11 @@ sections:
           borderStyle: solid
           borderWidth: 1
           borderRadius: large
-      type: FormBlock
-      submitButton:
-        type: SubmitButtonFormControl
-        label: Submit
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: null
     badge:
+      type: Badge
       label: Contact Us
       color: text-primary
-      type: Badge
     colors: bg-light-fg-dark
-    type: GenericSection
 seo:
   metaTitle: Home - Demo site
   metaDescription: This demo site is built with Netlify Create.
