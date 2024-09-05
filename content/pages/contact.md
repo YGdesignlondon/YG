@@ -32,14 +32,6 @@ sections:
           placeholder: Your email
           isRequired: true
           width: full
-        - type: SelectFormControl
-          name: company-size
-          label: Company size
-          hideLabel: false
-          defaultValue: Please choose...
-          options: []
-          isRequired: false
-          width: full
         - type: TextareaFormControl
           name: Your company and design require
           label: Message
