@@ -3,9 +3,9 @@ title: Design of SaaS Platform
 slug: top-twenty-ways-to-save-time
 date: '2024-01-25'
 excerpt: >-
-  Quo facilis culpa ut illo dolor quo placeat consequatur. A consequatur facilis
-  aut voluptas dolores qui aperiam laborum ut ullam consequatur ut quia
-  consequatur cum inventore voluptas sed impedit asperiores!
+  Bite Stream is a configurable software-as-a-service (SaaS) platform designed
+  to enable fund managers to compliantly streamline and scale the distribution
+  of private markets investment products in an easy, secure and efficient way.
 featuredImage:
   url: /images/Frame 2116674816.jpg
   altText: Thumbnail
