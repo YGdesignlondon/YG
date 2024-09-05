@@ -10,7 +10,7 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: YG Design
-    text: >+
+    text: >
       YG Design is a London-based UX/UI design agency offering high-quality,
       user-centric design solutions tailored to businesses worldwide. We
       leverage a team of experienced designers to provide innovative and
@@ -20,6 +20,9 @@ sections:
       digital experiences and business growth.
 
 
+      We aim to become a leading global UX/UI design agency known for
+      excellence, creativity, and innovation, fostering a collaborative
+      environment where talent thrives and clients succeed.
     actions:
       - label: See open positions
         url: /
