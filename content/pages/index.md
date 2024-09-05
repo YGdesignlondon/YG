@@ -95,7 +95,7 @@ sections:
           altText: Featured icon two
           elementId: ''
           type: ImageBlock
-          url: /images/tran-mau-tri-tam-k4rXG_9zCbY-unsplash.jpg
+          url: /images/lala-azizli-Uxw-MF_uDGg-unsplash.jpg
         actions: []
         colors: bg-neutralAlt-fg-dark
         styles:
