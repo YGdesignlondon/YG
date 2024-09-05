@@ -92,7 +92,7 @@ sections:
           the overall user experience. Continuously improve based on user
           feedback and analytics to meet user needs.
         image:
-          url: /images/daniel-korpai-iopITwyUcTA-unsplash.jpg
+          url: /images/balazs-ketyi-_x335IZXxfc-unsplash.jpg
           altText: Featured icon two
           elementId: ''
           type: ImageBlock
