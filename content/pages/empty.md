@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: This is a new page
+title: Our Work
 sections:
   - type: FeaturedPostsSection
     title:
