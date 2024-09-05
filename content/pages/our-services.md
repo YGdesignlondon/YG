@@ -148,8 +148,10 @@ sections:
         title: Ongoing Support & Maintenance
         tagline: ''
         subtitle: ''
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: >+
+          Offer ongoing design updates, support after product launch, and
+          implement enhancements.
+
         image:
           type: ImageBlock
           url: /images/christopher-gower-m_HRfLhgABo-unsplash.jpg
