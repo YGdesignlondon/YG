@@ -1,7 +1,7 @@
 ---
 title: An easier way to reward your employees
 slug: life-of-our-development-team
-date: '2022-09-27'
+date: ''
 excerpt: >-
   Vel repellat dolores ut unde voluptatum ut optio voluptates est aliquid. Ut
   earum corporis id Quis esse est galisum officiis accusantium enim et
