@@ -7,7 +7,7 @@ sections:
       type: TitleBlock
       text: We'd love to hear from you
       color: text-dark
-    subtitle: Book a free consultation with the team
+    subtitle: 'We''re happy to hear from clients, partners and'
     text: |
       Address: 590 Chiswick High Road, London, UK
 
