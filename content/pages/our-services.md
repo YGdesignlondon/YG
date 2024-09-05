@@ -10,7 +10,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: Services we offer
+    subtitle: Our Services
     items:
       - type: FeaturedItem
         title: Feature Item One
