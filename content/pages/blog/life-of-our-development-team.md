@@ -2,9 +2,7 @@
 title: An easier way to reward your employees
 slug: life-of-our-development-team
 date: '2022-09-05'
-excerpt: >-
-  Increased corporate sales at Giftano not only in Singapore but in other
-  countries in South East Asia.
+excerpt: Increased corporate sales at Giftano not only in Singapore but also worldwide.
 featuredImage:
   url: /images/abstract-feature3.svg
   altText: Thumbnail
