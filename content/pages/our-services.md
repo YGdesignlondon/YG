@@ -45,8 +45,11 @@ sections:
         title: B2B and SaaS Platforms Design
         tagline: ''
         subtitle: ''
-        text: |
-          Follow the tutorial to build your first awesome Netlify Create site.
+        text: >+
+          Design end-to-end digital products, including native apps, software
+          interfaces and online tools. Continuously improve based on user
+          feedback and analytics to meet user needs.
+
         image:
           type: ImageBlock
           url: /images/Frame 2116674816.jpg
