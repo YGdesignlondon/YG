@@ -5,7 +5,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: List of Services
+      text: Our Services
       color: text-primary
       styles:
         self:
