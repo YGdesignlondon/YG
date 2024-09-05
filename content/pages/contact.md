@@ -24,7 +24,7 @@ sections:
           hideLabel: true
           placeholder: Your name
           isRequired: true
-          width: 1/2
+          width: full
         - type: EmailFormControl
           name: email
           label: Email
