@@ -7,7 +7,7 @@ sections:
       type: TitleBlock
       text: We'd love to hear from you
       color: text-dark
-    subtitle: 'We''re happy to hear from clients, partners and'
+    subtitle: 'We''re happy to hear from clients, partners and collaborators.'
     text: |
       Address: 590 Chiswick High Road, London, UK
 
