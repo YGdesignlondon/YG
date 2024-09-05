@@ -48,7 +48,7 @@ sections:
           width: full
         - type: SelectFormControl
           name: company
-          label: Design requirements
+          label: Requirements
           hideLabel: false
           defaultValue: Redesign a website or app
           options:
