@@ -9,7 +9,7 @@ excerpt: >-
   pellentesque fermentum. Sed in facilisis dui.
 featuredImage:
   url: /images/Frame 2116674815.jpg
-  altText: Case study 2
+  altText: Bundls APP
   styles:
     self:
       borderRadius: x-large
