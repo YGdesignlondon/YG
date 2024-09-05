@@ -39,18 +39,18 @@ sections:
           placeholder: Company name
           isRequired: true
           width: full
-        - type: TextareaFormControl
-          name: Your company and design require
-          label: Message
-          hideLabel: true
-          placeholder: Your message
-          width: full
         - type: EmailFormControl
           name: email
           label: Email
           hideLabel: true
           placeholder: Your email
           isRequired: true
+          width: full
+        - type: TextareaFormControl
+          name: Your company and design require
+          label: Message
+          hideLabel: true
+          placeholder: Your message
           width: full
       submitButton:
         type: SubmitButtonFormControl
