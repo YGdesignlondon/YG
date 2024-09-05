@@ -1,11 +1,11 @@
 {
-    "text": "London based digital product design agency\n",
+    "text": "London based digital design agency\n",
     "primaryLinks": {
         "title": "Services",
         "links": [
             {
                 "label": "Websites",
-                "altText": "Features page",
+                "altText": "Websites",
                 "url": "/",
                 "icon": "arrowRight",
                 "iconPosition": "right",
@@ -14,11 +14,12 @@
             },
             {
                 "label": "Apps",
-                "url": "/pricing",
+                "url": "/",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
-                "type": "Link"
+                "type": "Link",
+                "altText": "Apps"
             },
             {
                 "label": "E-commerce",
@@ -26,13 +27,14 @@
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
-                "type": "Link"
+                "type": "Link",
+                "altText": "E-commerce"
             },
             {
                 "type": "Link",
                 "label": "B2B and SaaS platforms",
                 "altText": "B2B and SaaS platforms",
-                "url": "/digital product",
+                "url": "/",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
@@ -43,7 +45,7 @@
                 "type": "Link",
                 "label": "Brand creative",
                 "altText": "Brand creative",
-                "url": "/brand creative",
+                "url": "/",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",

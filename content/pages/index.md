@@ -81,7 +81,7 @@ sections:
           type: ImageBlock
           altText: Lightning bolt symbol on red background
           elementId: ''
-          url: /images/icon1.svg
+          url: /images/jason-goodman-Kewm3qZfzOw-unsplash.jpg
           styles:
             self:
               borderRadius: x-large
@@ -92,10 +92,10 @@ sections:
           the overall user experience. Continuously improve based on user
           feedback and analytics to meet user needs.
         image:
-          url: /images/icon2.svg
           altText: Featured icon two
           elementId: ''
           type: ImageBlock
+          url: /images/lala-azizli-Uxw-MF_uDGg-unsplash.jpg
         actions: []
         colors: bg-neutralAlt-fg-dark
         styles:
@@ -119,7 +119,7 @@ sections:
           branding, and development.
 
         image:
-          url: /images/icon3.svg
+          url: /images/headway-5QgIuuBxKwM-unsplash.jpg
           altText: Featured icon three
           elementId: ''
           type: ImageBlock
