@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Book aconsultation
+      text: Tell us your enquire
       color: text-dark
     subtitle: Book a free consultation with the team
     text: |
