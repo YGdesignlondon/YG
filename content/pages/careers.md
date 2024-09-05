@@ -47,7 +47,7 @@ sections:
       backgroundSize: auto
       backgroundPosition: center
       backgroundRepeat: no-repeat
-      opacity: 13
+      opacity: 46
       url: /images/nastuh-abootalebi-eHD8Y1Znfpk-unsplash.jpg
   - title:
       text: Meet the team
