@@ -123,7 +123,7 @@ sections:
         tagline: ''
         subtitle: ''
         text: |
-          Front-end development and Back-end development.
+          Web & App Front-end development and Back-end development.
         image:
           type: ImageBlock
           url: /images/ilya-pavlov-OqtafYT5kTw-unsplash.jpg
