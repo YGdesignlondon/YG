@@ -146,10 +146,9 @@ sections:
         title: Ongoing Support & Maintenance
         tagline: ''
         subtitle: ''
-        text: >+
-          Offer ongoing design updates, support after product launch, and
-          implement enhancements.
-
+        text: >
+          Offer ongoing design updates, support after product launch, server
+          monitoring and abnormal situation handling.
         image:
           type: ImageBlock
           url: /images/christopher-gower-m_HRfLhgABo-unsplash.jpg
