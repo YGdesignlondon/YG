@@ -123,7 +123,7 @@ sections:
         tagline: ''
         subtitle: ''
         text: >
-          Front-end development, Back-end development, Webflow development, and
+          Front-end development, back-end development, Webflow development, and
           design-to-code translation.
         image:
           type: ImageBlock
