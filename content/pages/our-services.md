@@ -122,9 +122,8 @@ sections:
         title: Development Services
         tagline: ''
         subtitle: ''
-        text: >
-          Front-end development, Back-end development, and design-to-code
-          translation.
+        text: |
+          Web & App Front-end development and Back-end development.
         image:
           type: ImageBlock
           url: /images/ilya-pavlov-OqtafYT5kTw-unsplash.jpg
@@ -147,10 +146,9 @@ sections:
         title: Ongoing Support & Maintenance
         tagline: ''
         subtitle: ''
-        text: >+
-          Offer ongoing design updates, support after product launch, and
-          implement enhancements.
-
+        text: >
+          Offer ongoing design updates, support after product launch, server
+          monitoring and abnormal situation handling.
         image:
           type: ImageBlock
           url: /images/christopher-gower-m_HRfLhgABo-unsplash.jpg
