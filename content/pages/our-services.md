@@ -122,9 +122,8 @@ sections:
         title: Development Services
         tagline: ''
         subtitle: ''
-        text: >
-          Front-end development, Back-end development, and design-to-code
-          translation.
+        text: |
+          Front-end development and Back-end development.
         image:
           type: ImageBlock
           url: /images/ilya-pavlov-OqtafYT5kTw-unsplash.jpg
