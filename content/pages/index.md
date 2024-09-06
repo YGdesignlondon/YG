@@ -252,6 +252,7 @@ sections:
             - ml-0
             - mr-5
             - mb-5
+          borderRadius: medium
     badge:
       label: This is YG
       color: text-primary
