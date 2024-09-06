@@ -122,10 +122,9 @@ sections:
         title: Development Services
         tagline: ''
         subtitle: ''
-        text: >+
-          Front-end development, Webflow development, and design-to-code
+        text: >
+          Front-end development, Back-end development, and design-to-code
           translation.
-
         image:
           type: ImageBlock
           url: /images/ilya-pavlov-OqtafYT5kTw-unsplash.jpg
@@ -183,7 +182,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-slug: Our Services
+slug: /our services
 isDraft: false
 seo:
   type: Seo
