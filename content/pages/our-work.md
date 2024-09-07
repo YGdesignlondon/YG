@@ -13,6 +13,8 @@ sections:
     posts:
       - content/pages/blog/life-of-our-development-team.md
       - content/pages/blog/surround-yourself-with-right-people.md
+      - >-
+        content/pages/blog/wellness2.0-is-a-dedicated-employee-welfare-app-designed-by-pwc-aimed-at-enhancing-the-overall-well-being-of-its-employees-through-a-range-of-comprehensive-services..md
       - content/pages/blog/top-twenty-ways-to-save-time.md
     showThumbnail: true
     showExcerpt: true
