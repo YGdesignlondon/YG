@@ -17,6 +17,8 @@ sections:
         content/pages/blog/wellness2.0-is-a-dedicated-employee-welfare-app-designed-by-pwc-aimed-at-enhancing-the-overall-well-being-of-its-employees-through-a-range-of-comprehensive-services..md
       - content/pages/blog/top-twenty-ways-to-save-time.md
       - >-
+        content/pages/blog/fitness-industry-design-pad-use-the-tablet-to-view-corresponding-training-data-in-real-time..md
+      - >-
         content/pages/blog/this-design-uses-independent-circles-to-metaphorically-represent-multi-dimensional-multi-perspective-data-elements-and-combines-the-'f'-from-'forecasting'-to-form-an-'arrow'-shaped-f-configuration.-keywords:-dynamic-diversity-open-forecasting..md
     showThumbnail: true
     showExcerpt: true
