@@ -67,10 +67,13 @@ styles:
   self:
     flexDirection: col
 ---
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis.
+Wellness2.0 is a dedicated employee welfare app designed by PwC, aimed at enhancing the overall well-being of its employees through a range
+of comprehensive services. Core features include the distribution of corporate welfare bonuses, provision of exclusive employee shopping
+discounts, promotion of participation in fitness and health activities, and creating a platform for employees to meet new colleagues and
+establish connections.
 
-> Vestibulum ullamcorper risus auctor eleifend consequat.
 
-In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
+The following modules, "My Health" and "Life Tournament," are dedicated to focusing on employees' physical and mental well-being and quality of life. Their aim is to promote work-life balance, creating a healthy, active, and connected work environment.
 
-Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+
+![](/images/0.png)![](/images/1.png)![](/images/2.png)![](/images/4.png)![](/images/6.png)![](/images/8.png)![](/images/10.png)
