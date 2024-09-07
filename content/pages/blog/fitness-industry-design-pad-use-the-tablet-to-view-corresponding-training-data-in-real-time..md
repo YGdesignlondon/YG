@@ -8,7 +8,7 @@ excerpt: >-
   Donec sed facilisis nibh.
 featuredImage:
   type: ImageBlock
-  url: /images/WX20240907-233440@2x.png
+  url: /images/WX20240907-233440@2x 1.jpg
   altText: Thumbnail
   elementId: ''
   styles:
