@@ -2,7 +2,9 @@
 title: Bundls APP design
 slug: surround-yourself-with-right-people
 date: '2023-03-26'
-excerpt: Bundls App is .....
+excerpt: >-
+  The product is tailored for specific product users in certain open areas in
+  the United States.
 featuredImage:
   altText: Thumbnail
   type: ImageBlock
