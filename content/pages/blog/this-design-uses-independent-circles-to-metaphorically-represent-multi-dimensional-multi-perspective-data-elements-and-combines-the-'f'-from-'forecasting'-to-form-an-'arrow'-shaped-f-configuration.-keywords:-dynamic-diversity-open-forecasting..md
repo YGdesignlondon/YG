@@ -72,4 +72,4 @@ Logo Design FOST— Automated Forecasting Platform
 
 This design uses independent circles to metaphorically represent multi-dimensional, multi-perspective data elements, and combines the ‘F’ from ‘Forecasting’ to form an ‘arrow’ shaped F configuration. Keywords: Dynamic Diversity, Open Forecasting.
 
-![](/images/14.png)
+![](/images/12.png)![](/images/11.png)![](/images/13.png)![](/images/14.png)
