@@ -1,6 +1,6 @@
 ---
 title: Home
-slug: /
+slug: netlify.app
 sections:
   - type: GenericSection
     title:
