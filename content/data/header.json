@@ -8,8 +8,7 @@
                 ]
             }
         },
-        "type": "ImageBlock",
-        "url": "/images/YGlogo.jpg"
+        "type": "ImageBlock"
     },
     "primaryLinks": [
         {
