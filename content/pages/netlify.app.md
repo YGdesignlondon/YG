@@ -358,7 +358,7 @@ sections:
       label: Contact Us
       color: text-primary
     colors: bg-light-fg-dark
-slug: .netlify.app
+slug: netlify.app
 isDraft: true
 seo:
   type: Seo
