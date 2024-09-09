@@ -183,8 +183,7 @@ sections:
       - url: /images/Frame 2116674813.jpg
         altText: Vise logo
         type: ImageBlock
-      - url: /images/sanity-logo.svg
-        altText: Sanity logo
+      - altText: Sanity logo
         type: ImageBlock
       - url: /images/Frame 2116674811.jpg
         altText: Rangle logo
