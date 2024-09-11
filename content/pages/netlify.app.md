@@ -142,7 +142,7 @@ sections:
             flexDirection: row
     actions:
       - type: Button
-        label: More services
+        label: All services
         altText: ''
         url: /
         showIcon: false
