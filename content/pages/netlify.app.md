@@ -15,7 +15,7 @@ sections:
       our clients' evolving needs while ensuring affordability and high quality.
     actions:
       - type: Button
-        label: Learn more
+        label: About us
         altText: ''
         url: /
         showIcon: false
